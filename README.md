@@ -1,16 +1,26 @@
- #Sistema Login Java
- 
-Projeto simples em java criado para praticar Programação Orientada a Objetos.
 
- #Funcionalidades
+# Java Student Grade & Login System
 
--Criação de usúario
--Autenticacão de login
--Cadastro de aluno
--Calculo de média
+Projeto simples desenvolvido em **Java** para praticar **Programação Orientada a Objetos (POO)**.
 
- #Tecnologias
- 
--Java
--POO
+## Funcionalidades
 
+* Criação de usuário
+* Autenticação de login
+* Cadastro de aluno
+* Cálculo de média
+
+## Tecnologias utilizadas
+
+* Java
+* Programação Orientada a Objetos (POO)
+
+## Objetivo
+
+Praticar conceitos fundamentais de Java como:
+
+* Classes
+* Objetos
+* Encapsulamento
+* Métodos
+* Organização de lógica de sistema
